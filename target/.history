@@ -1,0 +1,5 @@
+all {file:/Users/AjenderNeelam/IdeaProjects/sparkge2/}sparkge2/products {file:/Users/AjenderNeelam/IdeaProjects/sparkge2/}sparkge2/test:products
+;reload; */*:dumpStructureTo /private/var/folders/r3/h5sjpr0d4898vmlczfzsnb5c0000gn/T/sbt-structure.xml download resolveClassifiers
+all {file:/Users/AjenderNeelam/IdeaProjects/sparkge2/}sparkge2/products {file:/Users/AjenderNeelam/IdeaProjects/sparkge2/}sparkge2/test:products
+;reload; */*:dumpStructureTo /private/var/folders/r3/h5sjpr0d4898vmlczfzsnb5c0000gn/T/sbt-structure.xml download resolveClassifiers
+all {file:/Users/AjenderNeelam/IdeaProjects/sparkge2/}sparkge2/products {file:/Users/AjenderNeelam/IdeaProjects/sparkge2/}sparkge2/test:products

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Build-Time: 2014-09-26 02:07:58
+Implementation-Title: waffle-jna
+Implementation-Version: 1.7
+Os-Version: 6.3
+Git-Revision: 3f6f3599189b1577ee36161b8d027f7285a92897
+Built-By: Jeremy
+Specification-Vendor: com.github.dblock
+Created-By: Apache Maven 3.2.3
+Os-Name: Windows 8.1
+X-Compile-Source-JDK: 1.6
+Implementation-Vendor: com.github.dblock
+Copywrite: 2014
+Implementation-Vendor-Id: com.github.dblock.waffle
+Build-Jdk: 1.7.0_67
+Os-Arch: x86
+Specification-Title: waffle-jna
+Specification-Version: 1.7
+X-Compile-Target-JDK: 1.6
+Archiver-Version: Plexus Archiver
+
